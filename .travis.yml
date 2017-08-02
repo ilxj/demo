@@ -32,4 +32,4 @@ branches:
     - blog-source
 env:
  global:
-   - GH_REF: git@github.com:ilxj/demo.git
+   - GH_REF: github.com/ilxj/demo.git
